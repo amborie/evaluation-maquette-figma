@@ -1,22 +1,28 @@
-# Évaluation – Maquettage de projet
+# Évaluation – Maquette Figma
 
-Ce dépôt contient la maquette du projet réalisée avec Figma.
+## Présentation
+Ce dépôt contient la maquette complète du projet réalisée sur Figma.  
+Toutes les pages ont été conçues en version **Desktop** et **Mobile** pour illustrer la responsivité.
 
 ## Organisation des fichiers
-- Chaque page du projet est disponible en **version Desktop** et **version Mobile**.
-- Les maquettes sont exportées en **PNG** pour consultation.
+- Le fichier principal : `maquette-projet.fig` (toutes les pages et frames sont incluses)
+- Les pages du projet sont incluses dans le fichier `.fig` :
+  - Page d'accueil
+  - Page à propos
+  - Page assistance
+  - Page produit
+  - Page commande
 
-### Contenu du dossier `maquettes/`
-- `page accueil` avec la version mobile et la version desktop
-- `page produit` avec la version mobile et la version desktop
-- `page commande` avec la version mobile et la version desktop
-- `page a propos` avec la version mobile et la version desktop
-- `page assistance` avec la version mobile et la version desktop
-
+## Versions Desktop et Mobile
+Chaque page contient deux versions pour simuler l'affichage sur :
+- **Desktop** (ordinateur)
+- **Mobile** (smartphone)
 
 ## Outil utilisé
-- Maquette réalisée sur **Figma**
+- Maquette réalisée avec **Figma**
 
-## Notes
-- Le rendu final est présenté sous forme d’images PNG pour que le correcteur puisse visualiser le projet.
-- Chaque page contient une version Desktop et une version Mobile pour illustrer la responsivité.
+## Notes importantes
+- Le fichier `.fig` est un format Figma natif.  
+- GitHub ne peut pas prévisualiser ce type de fichier, mais le fichier peut être téléchargé et ouvert directement dans Figma.  
+- La maquette contient toutes les pages, frames et éléments graphiques nécessaires à la correction.  
+
