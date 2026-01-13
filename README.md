@@ -7,11 +7,12 @@ Ce dépôt contient la maquette du projet réalisée avec Figma.
 - Les maquettes sont exportées en **PNG** pour consultation.
 
 ### Contenu du dossier `maquettes/`
-- `page1-desktop.png` et `page1-mobile.png`
-- `page2-desktop.png` et `page2-mobile.png`
-- `page3-desktop.png` et `page3-mobile.png`
-- `page4-desktop.png` et `page4-mobile.png`
-- `page5-desktop.png` et `page5-mobile.png`
+- `page accueil` avec la version mobile et la version desktop
+- `page produit` avec la version mobile et la version desktop
+- `page commande` avec la version mobile et la version desktop
+- `page a propos` avec la version mobile et la version desktop
+- `page assistance` avec la version mobile et la version desktop
+
 
 ## Outil utilisé
 - Maquette réalisée sur **Figma**
